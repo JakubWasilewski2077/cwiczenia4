@@ -16,3 +16,5 @@ for x in zbiorB:
 print(zbiorC)
 
 #zadanie2
+
+
